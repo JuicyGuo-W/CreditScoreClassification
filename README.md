@@ -1,6 +1,12 @@
 # COMS W4995 Applied Machine Learning Final Project
 
-Group members: Meilin Guo (mg4578), Chiara Wollner (crw2160), Angela Mu (aym2122),  Hussain Doriwala (hd2551), Nagavasavi Jeepalyam (nj2506) 
+## Background and Context
+Over the years, a finance company has collected basic banking details along with extensive credit-related information. In an effort to streamline operations and reduce manual labor, the management is focused on creating a sophisticated system that can accurately classify and separate individuals into specific credit score brackets based on their financial history. With information about credit scores, companies can better assess the risk that is associated with lending money to certain individuals, make loan approval decisions, determine interest rates, etc.
+
+This project intends to carry out a thorough comparative analysis of several machine learning models to assess their effectiveness in classifying credit scores. By conducting this empirical study, the aim is to uncover the most efficient techniques to improve the credit scoring process. 
+
+Datasets
+Source: https://www.kaggle.com/datasets/parisrohan/credit-score-classification/data 
 
 ## Project Intro
 Project Goal: This project aims to use credit-related information and other banking details to predict and classify an individual’s credit score bracket.
